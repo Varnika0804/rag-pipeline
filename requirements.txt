@@ -1,0 +1,11 @@
+# Unpinned on purpose. After a successful run, pin exact versions with `pip freeze`.
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-google-genai
+pypdf
+sentence-transformers
+pandas
+python-dotenv
+notebook

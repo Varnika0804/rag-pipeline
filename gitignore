@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Documents and local data (do not commit copyrighted PDFs)
+data/*.pdf
+chroma_db/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
